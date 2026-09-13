@@ -2,7 +2,7 @@
 
 My practical DevSecOps knowledge base — concepts, security practices, tools, commands, interview notes, labs, and real-world implementation patterns.
 
-DevSecOps is not simply DevOps + a security tool. It is the practice of integrating security into the software delivery lifecycle so that security becomes a continuous responsibility across development, security, and operations.
+DevSecOps is not simply DevOps + a security tool. It is the practice of integrating security into the software delivery lifecycle so that security becomes a continuous responsibility across development, security , and operations.
 
 The core idea is:
 
